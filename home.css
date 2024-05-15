@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+header {
+    background-color: red;
+    padding: 20px 0;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    margin-top: 20px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 18px;
+}
+section {
+    padding: 20px;
+}
+h1, h2 {
+    text-align: center;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+p {
+    line-height: 1.6;
+}
